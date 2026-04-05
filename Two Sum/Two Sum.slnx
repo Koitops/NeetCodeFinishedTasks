@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Two Sum/Two Sum.vcxproj" />
+  <Project Path="../../../../../../../../NeetCodeFinishedTasks/Two Sum/Two Sum/Two Sum.vcxproj" Id="a82942ec-2c32-4e05-a775-e111d4592565" />
 </Solution>
