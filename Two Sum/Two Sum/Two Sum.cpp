@@ -18,10 +18,10 @@ std::vector<int> twoSum(std::vector<int>& nums, int target) {
     return {};
 }
 
-
 int main()
 {
     std::vector<int> num = { 4,5,6 };
     twoSum(num, 10);
+    return 0;
 }
 
